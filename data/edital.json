@@ -1,0 +1,118 @@
+{
+  "edital": {
+    "universidade": "UFPR",
+    "vestibular": "2027",
+    "objetivo": "Medicina",
+    "progressoGeral": 0,
+    "disciplinas": [
+      {
+        "id": "biologia",
+        "nome": "Biologia",
+        "progresso": 0,
+        "questoesResolvidas": 0,
+        "acertos": 0,
+        "erros": 0,
+        "topicos": []
+      },
+      {
+        "id": "fisica",
+        "nome": "Física",
+        "progresso": 0,
+        "questoesResolvidas": 0,
+        "acertos": 0,
+        "erros": 0,
+        "topicos": []
+      },
+      {
+        "id": "quimica",
+        "nome": "Química",
+        "progresso": 0,
+        "questoesResolvidas": 0,
+        "acertos": 0,
+        "erros": 0,
+        "topicos": []
+      },
+      {
+        "id": "matematica",
+        "nome": "Matemática",
+        "progresso": 0,
+        "questoesResolvidas": 0,
+        "acertos": 0,
+        "erros": 0,
+        "topicos": []
+      },
+      {
+        "id": "historia",
+        "nome": "História",
+        "progresso": 0,
+        "questoesResolvidas": 0,
+        "acertos": 0,
+        "erros": 0,
+        "topicos": []
+      },
+      {
+        "id": "geografia",
+        "nome": "Geografia",
+        "progresso": 0,
+        "questoesResolvidas": 0,
+        "acertos": 0,
+        "erros": 0,
+        "topicos": []
+      },
+      {
+        "id": "portugues",
+        "nome": "Língua Portuguesa",
+        "progresso": 0,
+        "questoesResolvidas": 0,
+        "acertos": 0,
+        "erros": 0,
+        "topicos": []
+      },
+      {
+        "id": "literatura",
+        "nome": "Literatura",
+        "progresso": 0,
+        "questoesResolvidas": 0,
+        "acertos": 0,
+        "erros": 0,
+        "topicos": []
+      },
+      {
+        "id": "filosofia",
+        "nome": "Filosofia",
+        "progresso": 0,
+        "questoesResolvidas": 0,
+        "acertos": 0,
+        "erros": 0,
+        "topicos": []
+      },
+      {
+        "id": "sociologia",
+        "nome": "Sociologia",
+        "progresso": 0,
+        "questoesResolvidas": 0,
+        "acertos": 0,
+        "erros": 0,
+        "topicos": []
+      },
+      {
+        "id": "ingles",
+        "nome": "Língua Estrangeira",
+        "progresso": 0,
+        "questoesResolvidas": 0,
+        "acertos": 0,
+        "erros": 0,
+        "topicos": []
+      },
+      {
+        "id": "producao_textual",
+        "nome": "Compreensão e Produção de Textos",
+        "progresso": 0,
+        "questoesResolvidas": 0,
+        "acertos": 0,
+        "erros": 0,
+        "topicos": []
+      }
+    ]
+  }
+}
