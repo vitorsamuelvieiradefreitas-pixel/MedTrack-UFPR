@@ -1,0 +1,180 @@
+{
+  "disciplina": "Matemática",
+  "edital": "UFPR 2027",
+  "progresso": 0,
+  "horasEstudadas": 0,
+  "questoesResolvidas": 0,
+  "acertos": 0,
+  "erros": 0,
+  "blocos": [
+    {
+      "id": 1,
+      "nome": "Estudo de funções e sequências",
+      "progresso": 0,
+      "topicos": [
+        {
+          "nome": "Conceito de função",
+          "concluido": false,
+          "horas": 0,
+          "questoes": 0,
+          "acertos": 0,
+          "erros": 0,
+          "revisoes": []
+        },
+        {
+          "nome": "Funções módulo",
+          "concluido": false,
+          "horas": 0,
+          "questoes": 0,
+          "acertos": 0,
+          "erros": 0,
+          "revisoes": []
+        },
+        {
+          "nome": "Funções polinomiais",
+          "concluido": false,
+          "horas": 0,
+          "questoes": 0,
+          "acertos": 0,
+          "erros": 0,
+          "revisoes": []
+        },
+        {
+          "nome": "Função raiz quadrada",
+          "concluido": false,
+          "horas": 0,
+          "questoes": 0,
+          "acertos": 0,
+          "erros": 0,
+          "revisoes": []
+        },
+        {
+          "nome": "Funções exponenciais",
+          "concluido": false,
+          "horas": 0,
+          "questoes": 0,
+          "acertos": 0,
+          "erros": 0,
+          "revisoes": []
+        },
+        {
+          "nome": "Funções logarítmicas",
+          "concluido": false,
+          "horas": 0,
+          "questoes": 0,
+          "acertos": 0,
+          "erros": 0,
+          "revisoes": []
+        },
+        {
+          "nome": "Funções trigonométricas",
+          "concluido": false,
+          "horas": 0,
+          "questoes": 0,
+          "acertos": 0,
+          "erros": 0,
+          "revisoes": []
+        },
+        {
+          "nome": "Domínio e imagem",
+          "concluido": false,
+          "horas": 0,
+          "questoes": 0,
+          "acertos": 0,
+          "erros": 0,
+          "revisoes": []
+        },
+        {
+          "nome": "Funções injetoras, sobrejetoras e bijetoras",
+          "concluido": false,
+          "horas": 0,
+          "questoes": 0,
+          "acertos": 0,
+          "erros": 0,
+          "revisoes": []
+        },
+        {
+          "nome": "Função composta",
+          "concluido": false,
+          "horas": 0,
+          "questoes": 0,
+          "acertos": 0,
+          "erros": 0,
+          "revisoes": []
+        },
+        {
+          "nome": "Função inversa",
+          "concluido": false,
+          "horas": 0,
+          "questoes": 0,
+          "acertos": 0,
+          "erros": 0,
+          "revisoes": []
+        },
+        {
+          "nome": "Interpretação de gráficos",
+          "concluido": false,
+          "horas": 0,
+          "questoes": 0,
+          "acertos": 0,
+          "erros": 0,
+          "revisoes": []
+        },
+        {
+          "nome": "Máximos, mínimos e zeros",
+          "concluido": false,
+          "horas": 0,
+          "questoes": 0,
+          "acertos": 0,
+          "erros": 0,
+          "revisoes": []
+        },
+        {
+          "nome": "Periodicidade",
+          "concluido": false,
+          "horas": 0,
+          "questoes": 0,
+          "acertos": 0,
+          "erros": 0,
+          "revisoes": []
+        },
+        {
+          "nome": "Crescimento e decrescimento",
+          "concluido": false,
+          "horas": 0,
+          "questoes": 0,
+          "acertos": 0,
+          "erros": 0,
+          "revisoes": []
+        },
+        {
+          "nome": "Progressões aritméticas",
+          "concluido": false,
+          "horas": 0,
+          "questoes": 0,
+          "acertos": 0,
+          "erros": 0,
+          "revisoes": []
+        },
+        {
+          "nome": "Progressões geométricas",
+          "concluido": false,
+          "horas": 0,
+          "questoes": 0,
+          "acertos": 0,
+          "erros": 0,
+          "revisoes": []
+        },
+        {
+          "nome": "Limites intuitivos",
+          "concluido": false,
+          "horas": 0,
+          "questoes": 0,
+          "acertos": 0,
+          "erros": 0,
+          "revisoes": []
+        }
+      ]
+    }
+  ]
+        }
