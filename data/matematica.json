@@ -1,180 +1,362 @@
-{
-  "disciplina": "Matemática",
-  "edital": "UFPR 2027",
-  "progresso": 0,
-  "horasEstudadas": 0,
-  "questoesResolvidas": 0,
-  "acertos": 0,
-  "erros": 0,
-  "blocos": [
-    {
-      "id": 1,
-      "nome": "Estudo de funções e sequências",
-      "progresso": 0,
-      "topicos": [
-        {
-          "nome": "Conceito de função",
-          "concluido": false,
-          "horas": 0,
-          "questoes": 0,
-          "acertos": 0,
-          "erros": 0,
-          "revisoes": []
-        },
-        {
-          "nome": "Funções módulo",
-          "concluido": false,
-          "horas": 0,
-          "questoes": 0,
-          "acertos": 0,
-          "erros": 0,
-          "revisoes": []
-        },
-        {
-          "nome": "Funções polinomiais",
-          "concluido": false,
-          "horas": 0,
-          "questoes": 0,
-          "acertos": 0,
-          "erros": 0,
-          "revisoes": []
-        },
-        {
-          "nome": "Função raiz quadrada",
-          "concluido": false,
-          "horas": 0,
-          "questoes": 0,
-          "acertos": 0,
-          "erros": 0,
-          "revisoes": []
-        },
-        {
-          "nome": "Funções exponenciais",
-          "concluido": false,
-          "horas": 0,
-          "questoes": 0,
-          "acertos": 0,
-          "erros": 0,
-          "revisoes": []
-        },
-        {
-          "nome": "Funções logarítmicas",
-          "concluido": false,
-          "horas": 0,
-          "questoes": 0,
-          "acertos": 0,
-          "erros": 0,
-          "revisoes": []
-        },
-        {
-          "nome": "Funções trigonométricas",
-          "concluido": false,
-          "horas": 0,
-          "questoes": 0,
-          "acertos": 0,
-          "erros": 0,
-          "revisoes": []
-        },
-        {
-          "nome": "Domínio e imagem",
-          "concluido": false,
-          "horas": 0,
-          "questoes": 0,
-          "acertos": 0,
-          "erros": 0,
-          "revisoes": []
-        },
-        {
-          "nome": "Funções injetoras, sobrejetoras e bijetoras",
-          "concluido": false,
-          "horas": 0,
-          "questoes": 0,
-          "acertos": 0,
-          "erros": 0,
-          "revisoes": []
-        },
-        {
-          "nome": "Função composta",
-          "concluido": false,
-          "horas": 0,
-          "questoes": 0,
-          "acertos": 0,
-          "erros": 0,
-          "revisoes": []
-        },
-        {
-          "nome": "Função inversa",
-          "concluido": false,
-          "horas": 0,
-          "questoes": 0,
-          "acertos": 0,
-          "erros": 0,
-          "revisoes": []
-        },
-        {
-          "nome": "Interpretação de gráficos",
-          "concluido": false,
-          "horas": 0,
-          "questoes": 0,
-          "acertos": 0,
-          "erros": 0,
-          "revisoes": []
-        },
-        {
-          "nome": "Máximos, mínimos e zeros",
-          "concluido": false,
-          "horas": 0,
-          "questoes": 0,
-          "acertos": 0,
-          "erros": 0,
-          "revisoes": []
-        },
-        {
-          "nome": "Periodicidade",
-          "concluido": false,
-          "horas": 0,
-          "questoes": 0,
-          "acertos": 0,
-          "erros": 0,
-          "revisoes": []
-        },
-        {
-          "nome": "Crescimento e decrescimento",
-          "concluido": false,
-          "horas": 0,
-          "questoes": 0,
-          "acertos": 0,
-          "erros": 0,
-          "revisoes": []
-        },
-        {
-          "nome": "Progressões aritméticas",
-          "concluido": false,
-          "horas": 0,
-          "questoes": 0,
-          "acertos": 0,
-          "erros": 0,
-          "revisoes": []
-        },
-        {
-          "nome": "Progressões geométricas",
-          "concluido": false,
-          "horas": 0,
-          "questoes": 0,
-          "acertos": 0,
-          "erros": 0,
-          "revisoes": []
-        },
-        {
-          "nome": "Limites intuitivos",
-          "concluido": false,
-          "horas": 0,
-          "questoes": 0,
-          "acertos": 0,
-          "erros": 0,
-          "revisoes": []
-        }
-      ]
-    }
-  ]
-        }
+[
+  {
+    "id": "MAT-FUN-01",
+    "nome": "A noção de função como instrumento para trabalhar com a variação de grandezas. Caracterizações e representações gráficas das funções módulo, polinomiais, raiz quadrada, exponenciais, logarítmicas e trigonométricas. Aplicações.",
+    "categoria": "Estudo de funções e sequências",
+    "concluido": false,
+    "horasEstudadas": 0,
+    "metaHoras": 0,
+    "questoes": 0,
+    "acertos": 0,
+    "erros": 0,
+    "revisoes": []
+  },
+  {
+    "id": "MAT-FUN-02",
+    "nome": "Domínio e Imagem de uma função. Funções injetora, sobrejetora, bijetora, composta e inversa. Determinação algébrica da inversa de uma função bijetora.",
+    "categoria": "Estudo de funções e sequências",
+    "concluido": false,
+    "horasEstudadas": 0,
+    "metaHoras": 0,
+    "questoes": 0,
+    "acertos": 0,
+    "erros": 0,
+    "revisoes": []
+  },
+  {
+    "id": "MAT-FUN-03",
+    "nome": "Interpretação de gráficos de funções. Valores destacados no gráfico (máximos, mínimos e zeros). Periodicidade. Intervalos de crescimento e decrescimento. Translações e mudanças de escala. Aplicações em situações-problema de contexto variado, incluindo estimativas e previsão de valores.",
+    "categoria": "Estudo de funções e sequências",
+    "concluido": false,
+    "horasEstudadas": 0,
+    "metaHoras": 0,
+    "questoes": 0,
+    "acertos": 0,
+    "erros": 0,
+    "revisoes": []
+  },
+  {
+    "id": "MAT-FUN-04",
+    "nome": "Progressões aritméticas e geométricas. A ideia intuitiva de limite em problemas envolvendo sequências e funções.",
+    "categoria": "Estudo de funções e sequências",
+    "concluido": false,
+    "horasEstudadas": 0,
+    "metaHoras": 0,
+    "questoes": 0,
+    "acertos": 0,
+    "erros": 0,
+    "revisoes": []
+  },
+  {
+    "id": "MAT-GEO-05",
+    "nome": "Características, elementos e propriedades geométricas de figuras planas e espaciais: polígonos, círculo, prismas, pirâmides, esfera, cilindros, cones e troncos. Poliedros e fórmula de Euler.",
+    "categoria": "Geometria e medidas",
+    "concluido": false,
+    "horasEstudadas": 0,
+    "metaHoras": 0,
+    "questoes": 0,
+    "acertos": 0,
+    "erros": 0,
+    "revisoes": []
+  },
+  {
+    "id": "MAT-GEO-06",
+    "nome": "Seções planas de sólidos geométricos. Planificações.",
+    "categoria": "Geometria e medidas",
+    "concluido": false,
+    "horasEstudadas": 0,
+    "metaHoras": 0,
+    "questoes": 0,
+    "acertos": 0,
+    "erros": 0,
+    "revisoes": []
+  },
+  {
+    "id": "MAT-GEO-07",
+    "nome": "Razões entre comprimentos, áreas e volumes de figuras semelhantes. Teorema de Tales e aplicações.",
+    "categoria": "Geometria e medidas",
+    "concluido": false,
+    "horasEstudadas": 0,
+    "metaHoras": 0,
+    "questoes": 0,
+    "acertos": 0,
+    "erros": 0,
+    "revisoes": []
+  },
+  {
+    "id": "MAT-GEO-08",
+    "nome": "Semelhança e congruência de triângulos.",
+    "categoria": "Geometria e medidas",
+    "concluido": false,
+    "horasEstudadas": 0,
+    "metaHoras": 0,
+    "questoes": 0,
+    "acertos": 0,
+    "erros": 0,
+    "revisoes": []
+  },
+  {
+    "id": "MAT-GEO-09",
+    "nome": "Trigonometria no triângulo retângulo. Aplicações.",
+    "categoria": "Geometria e medidas",
+    "concluido": false,
+    "horasEstudadas": 0,
+    "metaHoras": 0,
+    "questoes": 0,
+    "acertos": 0,
+    "erros": 0,
+    "revisoes": []
+  },
+  {
+    "id": "MAT-GEO-10",
+    "nome": "Perímetro, área, ângulos, arcos e medidas do círculo e de suas partes.",
+    "categoria": "Geometria e medidas",
+    "concluido": false,
+    "horasEstudadas": 0,
+    "metaHoras": 0,
+    "questoes": 0,
+    "acertos": 0,
+    "erros": 0,
+    "revisoes": []
+  },
+  {
+    "id": "MAT-GEO-11",
+    "nome": "Relações métricas em triângulos. Teorema de Pitágoras, lei dos senos, lei dos cossenos. Aplicações.",
+    "categoria": "Geometria e medidas",
+    "concluido": false,
+    "horasEstudadas": 0,
+    "metaHoras": 0,
+    "questoes": 0,
+    "acertos": 0,
+    "erros": 0,
+    "revisoes": []
+  },
+  {
+    "id": "MAT-GEO-12",
+    "nome": "Cálculo de perímetros e áreas de polígonos.",
+    "categoria": "Geometria e medidas",
+    "concluido": false,
+    "horasEstudadas": 0,
+    "metaHoras": 0,
+    "questoes": 0,
+    "acertos": 0,
+    "erros": 0,
+    "revisoes": []
+  },
+  {
+    "id": "MAT-GEO-13",
+    "nome": "Cálculo de área e volume de prismas, pirâmides, cilindros, cones, troncos e esferas.",
+    "categoria": "Geometria e medidas",
+    "concluido": false,
+    "horasEstudadas": 0,
+    "metaHoras": 0,
+    "questoes": 0,
+    "acertos": 0,
+    "erros": 0,
+    "revisoes": []
+  },
+  {
+    "id": "MAT-ALG-14",
+    "nome": "Conjuntos, igualdade entre conjuntos, conjuntos universo e vazio, complementar de um conjunto, subconjuntos e relação de inclusão, operações entre conjuntos, cardinalidade.",
+    "categoria": "Álgebra, números e matrizes",
+    "concluido": false,
+    "horasEstudadas": 0,
+    "metaHoras": 0,
+    "questoes": 0,
+    "acertos": 0,
+    "erros": 0,
+    "revisoes": []
+  },
+  {
+    "id": "MAT-ALG-15",
+    "nome": "Números naturais, números primos e divisibilidade. Números inteiros.",
+    "categoria": "Álgebra, números e matrizes",
+    "concluido": false,
+    "horasEstudadas": 0,
+    "metaHoras": 0,
+    "questoes": 0,
+    "acertos": 0,
+    "erros": 0,
+    "revisoes": []
+  },
+  {
+    "id": "MAT-ALG-16",
+    "nome": "Números racionais e irracionais e sua representação decimal. Aproximações de irracionais por meio de racionais.",
+    "categoria": "Álgebra, números e matrizes",
+    "concluido": false,
+    "horasEstudadas": 0,
+    "metaHoras": 0,
+    "questoes": 0,
+    "acertos": 0,
+    "erros": 0,
+    "revisoes": []
+  },
+  {
+    "id": "MAT-ALG-17",
+    "nome": "Propriedades dos números reais e das operações fundamentais com números reais.",
+    "categoria": "Álgebra, números e matrizes",
+    "concluido": false,
+    "horasEstudadas": 0,
+    "metaHoras": 0,
+    "questoes": 0,
+    "acertos": 0,
+    "erros": 0,
+    "revisoes": []
+  },
+  {
+    "id": "MAT-ALG-18",
+    "nome": "Representações algébrica e geométrica dos números complexos. Operações com números complexos. Potências de números complexos. Conjugado e módulo de um número complexo. Forma trigonométrica.",
+    "categoria": "Álgebra, números e matrizes",
+    "concluido": false,
+    "horasEstudadas": 0,
+    "metaHoras": 0,
+    "questoes": 0,
+    "acertos": 0,
+    "erros": 0,
+    "revisoes": []
+  },
+  {
+    "id": "MAT-ALG-19",
+    "nome": "Equações e inequações polinomiais e modulares. Significados algébrico e geométrico das raízes de polinômios e implicações na fatoração, incluindo o completamento de quadrados.",
+    "categoria": "Álgebra, números e matrizes",
+    "concluido": false,
+    "horasEstudadas": 0,
+    "metaHoras": 0,
+    "questoes": 0,
+    "acertos": 0,
+    "erros": 0,
+    "revisoes": []
+  },
+  {
+    "id": "MAT-ALG-20",
+    "nome": "Operações com polinômios, com ênfase em divisão de polinômios.",
+    "categoria": "Álgebra, números e matrizes",
+    "concluido": false,
+    "horasEstudadas": 0,
+    "metaHoras": 0,
+    "questoes": 0,
+    "acertos": 0,
+    "erros": 0,
+    "revisoes": []
+  },
+  {
+    "id": "MAT-ALG-21",
+    "nome": "Relações, identidades e transformações trigonométricas. Equações e inequações trigonométricas.",
+    "categoria": "Álgebra, números e matrizes",
+    "concluido": false,
+    "horasEstudadas": 0,
+    "metaHoras": 0,
+    "questoes": 0,
+    "acertos": 0,
+    "erros": 0,
+    "revisoes": []
+  },
+  {
+    "id": "MAT-ALG-22",
+    "nome": "Propriedades das exponenciais e logaritmos. Equações e inequações exponenciais e logarítmicas.",
+    "categoria": "Álgebra, números e matrizes",
+    "concluido": false,
+    "horasEstudadas": 0,
+    "metaHoras": 0,
+    "questoes": 0,
+    "acertos": 0,
+    "erros": 0,
+    "revisoes": []
+  },
+  {
+    "id": "MAT-ALG-23",
+    "nome": "Sistemas lineares e matrizes. Discussão e resolução de sistemas lineares (até 4 equações e 4 incógnitas) por escalonamento e substituição de variáveis.",
+    "categoria": "Álgebra, números e matrizes",
+    "concluido": false,
+    "horasEstudadas": 0,
+    "metaHoras": 0,
+    "questoes": 0,
+    "acertos": 0,
+    "erros": 0,
+    "revisoes": []
+  },
+  {
+    "id": "MAT-ALG-24",
+    "nome": "Operações com matrizes, matriz inversa e determinantes.",
+    "categoria": "Álgebra, números e matrizes",
+    "concluido": false,
+    "horasEstudadas": 0,
+    "metaHoras": 0,
+    "questoes": 0,
+    "acertos": 0,
+    "erros": 0,
+    "revisoes": []
+  },
+  {
+    "id": "MAT-GA-25",
+    "nome": "Coordenadas cartesianas de pontos no plano. Distância entre pontos. Equações da reta e posições relativas entre duas retas. Distância de ponto a reta e entre duas retas. Aplicações.",
+    "categoria": "Geometria analítica",
+    "concluido": false,
+    "horasEstudadas": 0,
+    "metaHoras": 0,
+    "questoes": 0,
+    "acertos": 0,
+    "erros": 0,
+    "revisoes": []
+  },
+  {
+    "id": "MAT-GA-26",
+    "nome": "Equações da circunferência. Posições relativas entre reta e circunferência e entre circunferências. Aplicações.",
+    "categoria": "Geometria analítica",
+    "concluido": false,
+    "horasEstudadas": 0,
+    "metaHoras": 0,
+    "questoes": 0,
+    "acertos": 0,
+    "erros": 0,
+    "revisoes": []
+  },
+  {
+    "id": "MAT-INF-27",
+    "nome": "Matemática financeira: porcentagem, desconto, juros simples e compostos.",
+    "categoria": "Tratamento da informação",
+    "concluido": false,
+    "horasEstudadas": 0,
+    "metaHoras": 0,
+    "questoes": 0,
+    "acertos": 0,
+    "erros": 0,
+    "revisoes": []
+  },
+  {
+    "id": "MAT-INF-28",
+    "nome": "Problemas de contagem: o princípio fundamental de contagem, o princípio aditivo, permutação, arranjo e combinação. Princípio da casa dos pombos. Resolução de problemas envolvendo a contagem de diferentes tipos de agrupamento. Binômio de Newton.",
+    "categoria": "Tratamento da informação",
+    "concluido": false,
+    "horasEstudadas": 0,
+    "metaHoras": 0,
+    "questoes": 0,
+    "acertos": 0,
+    "erros": 0,
+    "revisoes": []
+  },
+  {
+    "id": "MAT-INF-29",
+    "nome": "População e amostra. Estatística descritiva. Tratamento da informação obtida com a organização e interpretação de dados em tabelas e gráficos. Medidas de tendência central (média, mediana e moda) e de dispersão (desvio-médio, desvio-padrão e variância).",
+    "categoria": "Tratamento da informação",
+    "concluido": false,
+    "horasEstudadas": 0,
+    "metaHoras": 0,
+    "questoes": 0,
+    "acertos": 0,
+    "erros": 0,
+    "revisoes": []
+  },
+  {
+    "id": "MAT-INF-30",
+    "nome": "Probabilidade de um evento. Amostras. Representação através de frequências relativas. Probabilidade condicional e eventos independentes. Aplicação de probabilidade em situações-problema.",
+    "categoria": "Tratamento da informação",
+    "concluido": false,
+    "horasEstudadas": 0,
+    "metaHoras": 0,
+    "questoes": 0,
+    "acertos": 0,
+    "erros": 0,
+    "revisoes": []
+  }
+]
