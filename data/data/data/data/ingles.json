@@ -1,0 +1,74 @@
+[
+  {
+    "id": "ING-01",
+    "nome": "Identificação de ideias principais e ideias específicas do texto em língua inglesa.",
+    "categoria": "Compreensão de textos",
+    "concluido": false,
+    "horasEstudadas": 0,
+    "metaHoras": 0,
+    "questoes": 0,
+    "acertos": 0,
+    "erros": 0,
+    "revisoes": []
+  },
+  {
+    "id": "ING-02",
+    "nome": "Estabelecimento de relações entre diferentes partes do texto.",
+    "categoria": "Relações textuais",
+    "concluido": false,
+    "horasEstudadas": 0,
+    "metaHoras": 0,
+    "questoes": 0,
+    "acertos": 0,
+    "erros": 0,
+    "revisoes": []
+  },
+  {
+    "id": "ING-03",
+    "nome": "Estabelecimento de relações entre texto e contexto.",
+    "categoria": "Texto e contexto",
+    "concluido": false,
+    "horasEstudadas": 0,
+    "metaHoras": 0,
+    "questoes": 0,
+    "acertos": 0,
+    "erros": 0,
+    "revisoes": []
+  },
+  {
+    "id": "ING-04",
+    "nome": "Identificação de diferentes pontos de vista apresentados no texto.",
+    "categoria": "Pontos de vista",
+    "concluido": false,
+    "horasEstudadas": 0,
+    "metaHoras": 0,
+    "questoes": 0,
+    "acertos": 0,
+    "erros": 0,
+    "revisoes": []
+  },
+  {
+    "id": "ING-05",
+    "nome": "Compreensão de textos jornalísticos, publicitários, de divulgação científica ou literários.",
+    "categoria": "Gêneros textuais",
+    "concluido": false,
+    "horasEstudadas": 0,
+    "metaHoras": 0,
+    "questoes": 0,
+    "acertos": 0,
+    "erros": 0,
+    "revisoes": []
+  },
+  {
+    "id": "ING-06",
+    "nome": "Uso do conhecimento gramatical em nível funcional, como elemento necessário para a compreensão dos textos.",
+    "categoria": "Conhecimento gramatical funcional",
+    "concluido": false,
+    "horasEstudadas": 0,
+    "metaHoras": 0,
+    "questoes": 0,
+    "acertos": 0,
+    "erros": 0,
+    "revisoes": []
+  }
+]
